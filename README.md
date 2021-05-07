@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DafyddSiencyns
+- 👋 Hi, I’m @DafyddSiencyns, consultant medical microbiologist
 - 👀 I’m interested in applications of R to antimicrobial resistance and infection epidemiology
 - 🌱 I’m currently learning sf
 - 💞️ I’m looking to collaborate on temporospatial epidemiology
